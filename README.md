@@ -1,4 +1,3 @@
-# collaborate-test
 
 # 2️⃣️ Git 협업
 
